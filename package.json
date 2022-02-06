@@ -1,0 +1,29 @@
+{
+  "name": "peerjs-react-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "peerjs": "1.3.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-router": "6.2.1",
+    "react-router-dom": "6.2.1"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.39",
+    "@types/react-dom": "17.0.11",
+    "@types/react-router-dom": "5.3.3",
+    "parcel": "2.0.0-rc.0",
+    "typescript": "4.5.5"
+  },
+  "source": "src/index.html"
+}
